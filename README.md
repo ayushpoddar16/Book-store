@@ -33,27 +33,6 @@ Vite - Next generation frontend tooling
 Tailwind CSS - Utility-first CSS framework
 React Router - Declarative routing for React
 
-BookStore/
-├── backend/                # Backend server
-│   ├── models/             # Database models
-│   ├── routes/             # API routes
-│   ├── config.example.js   # Example configuration (template)
-│   ├── config.js           # Actual configuration (gitignored)
-│   ├── index.js            # Server entry point
-│   └── package.json        # Backend dependencies
-├── frontend/               # Frontend application
-│   ├── public/             # Static assets
-│   ├── src/                # Source files
-│   │   ├── components/     # Reusable UI components
-│   │   ├── pages/          # Page components
-│   │   ├── assets/         # Frontend assets
-│   │   ├── App.jsx         # Main App component
-│   │   └── main.jsx        # Frontend entry point
-│   ├── index.html          # HTML template
-│   └── package.json        # Frontend dependencies
-├── .gitignore              # Git ignore file
-└── README.md               # Project documentation
-
 
 
 Configuration
