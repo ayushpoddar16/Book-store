@@ -1,0 +1,33 @@
+# Sensitive configuration files
+/backend/config.js
+
+# Dependencies
+/backend/node_modules/
+/frontend/node_modules/
+node_modules/
+
+# Build files
+/frontend/dist/
+/frontend/build/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.DS_Store
